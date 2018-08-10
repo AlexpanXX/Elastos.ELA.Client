@@ -11,7 +11,7 @@ import (
 	walt "github.com/elastos/Elastos.ELA.Client/wallet"
 
 	. "github.com/elastos/Elastos.ELA.Utility/common"
-	"github.com/AlexpanXX/gopass"
+	"github.com/howeyc/gopass"
 )
 
 func GetPassword(password []byte, confirmed bool) ([]byte, error) {

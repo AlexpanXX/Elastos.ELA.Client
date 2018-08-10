@@ -11,7 +11,6 @@ import:
   - common
   - crypto
 - package: github.com/elastos/Elastos.ELA
-  version: release_v0.1.1
   subpackages:
   - core
 - package: github.com/howeyc/gopass
